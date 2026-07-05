@@ -1,0 +1,8 @@
+inputs:
+  srodprog:
+    url: github:your-user/srodprog
+    flake: false
+
+imports:
+  - srodprog/modules/profiles/nix-tools.nix
+  - srodprog/modules/profiles/rust.nix

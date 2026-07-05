@@ -1,0 +1,6 @@
+.direnv/
+.devenv/
+devenv.local.nix
+devenv.local.yaml
+result
+result-*
